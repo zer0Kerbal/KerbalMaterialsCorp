@@ -11,7 +11,7 @@ repository:
   name: KerbalMaterialsCorp
 
   # A short description of the repository that will show up on GitHub
-  description:  Agent, flags and common configs for Lunatic Aeronautics. For Kerbal Space Program.
+  description:  Agent, flags and common configs for Kerbal Material Corp. For Kerbal Space Program.
 
   # A URL with more information about the repository
   homepage: https://forum.kerbalspaceprogram.com/index.php?/topic/208613-*/
