@@ -22,7 +22,7 @@ CC BY-ND 4.0 by zer0Kerbal
 | spacedock  | (https://spacedock.info/mod/3176)                                 |
 | ckan       | KerbalMaterialsCorp                                               |
 
-## Version 0.9.99.0-pre-release `<Double Decker Screen Deck>` edition
+## Version 0.9.99.0-prerelease `<Double Decker Screen Deck>` edition
 
 * Released
   * 17 Dec 2022
