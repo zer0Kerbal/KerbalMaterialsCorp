@@ -11,7 +11,7 @@ updated: 04 Oct 2022 -->
 
 # Kerbal Materials Corp (KMC)
 
-Agent, flags and common configs for Lunatic Aeronautics.
+Agent, flags and common configs for Kerbal Materials Corp (KMC).
 
 ## By [`zer0Kerbal`][zer0Kerbal], inspired by [Nazari1382][nazari1382]
 
@@ -115,7 +115,7 @@ How to support this and other great mods by [`zer0Kerbal`][zer0Kerbal]
 [MOD:pages]: https://zer0kerbal.github.io/KerbalMaterialsCorp/ "GitHub Pages"
 [MOD:shd:latest]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/KerbalMaterialsCorp/master/json/mod.json
 [LIC:url]: https://www.gnu.org/licenses/gpl-2.0-standalone.html "GPL-2.0"
-[LIC:shd]:  https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/MOD-NAME/master/json/license.json
+[LIC:shd]:  https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/KerbalMaterialsCorp/master/json/license.json
 
 <!--- CKAN -->
 [CKAN:img]: https://i.postimg.cc/x8XSVg4R/sj507JC.png "CKAN"
