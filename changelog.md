@@ -30,16 +30,20 @@
   * Localization/
     * <readme.md> v2.1.2.0
     * <quickstart.md>  v1.0.1.1
-* closes #6 - English <us-en.cfg>
-* updates #5 - Localization - Master
+* closes #9 - English <en-us.cfg>
+* updates #8 - Localization - Master
+* closes #7 - Create Localization directory and contents
 
 ### Status 0.9.99.0
 
 * Issues
 
-  * closes #1 - Kerbal Materials Corp (KMC) 0.9.99.0-prerelease `<Welcome to the Circus Boardroom>`
-  * closes #2 - 0.9.99.0 Verify Legal Mumbo Jumbo
-  * closes #3 - 0.9.99.0 Update Documentation
-  * closes #4 - 0.9.99.0 Update Social Media
+  * closes #1 - Kerbal Materials Corp (KMC) 0.9.99.0-prerelease `<Double Decker Screen Deck>` edition
+  * closes #2 - 1.1.99.0 Create Legal Mumbo Jumbo
+  * closes #3 - 1.1.99.0 Create Documentation
+  * closes #4 - 1.1.99.0 Create Social Media Presence
+  * closes #5 - Create GitHub Pages
+  * closes #6 - Create HeroLogo.png
+  * closes #26 - Create Agency
 
 ---
